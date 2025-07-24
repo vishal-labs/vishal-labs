@@ -36,7 +36,7 @@ I use tools that help me design **resilient**, **efficient**, and **future-ready
 - 🐳 **Infrastructure & Containers**: Docker · Kubernetes  
 - 🔍 **Networking & Debugging**: Wireshark · Bash  
 - ☁️ **Cloud Platforms**: Cloud Agnostic
-
+  
 ---
 
 ### 🚀 Projects
@@ -53,10 +53,15 @@ Some highlights from what I’ve built:
 
 
 
-### 📫 Connect With Me
 
+### 📫 Connect With Me
 <div align="center">
+  
+
   <a href="mailto:hellovishal2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/vishaldodda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishaldodda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://vishal-labs.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://kernelprogramming.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </div>
+
+
