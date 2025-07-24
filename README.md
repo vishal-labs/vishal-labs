@@ -43,6 +43,7 @@ I use tools that help me design **resilient**, **efficient**, and **future-ready
 
 Some highlights from what I’ve built:
 
+- 📨 **[Devops-MailAgent](https://github.com/vishal-labs/daily-agent)** – Email Server used on top of RSS feed for personalised News updates, Daily.
 - 🧠 **[Flashcards](https://github.com/vishal-labs/flashcards)** – REST API in Go for spaced repetition quizzes  
 - 🐧 **[Linux Essentials](https://github.com/vishal-labs/linux-fundamentals)** – Bash scripts and Linux productivity toolkit  
 - 🐳 **[Docker-App](https://github.com/vishal-labs/docker-app)** – Flask app with MongoDB deployed using Docker Compose
